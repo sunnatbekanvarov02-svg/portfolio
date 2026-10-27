@@ -1,8 +1,8 @@
 const teamMembers = [
 	{ name: "muhammadali", role: "PDP Student" },
 	{ name: "muhammadali", role: "PDP Student" },
-	{ name: "jafar", role: "PDP Student" },
-	{ name: "ozod", role: "PDP Student" },
+	{ name: "ilyos", role: "PDP Student" },
+	{ name: "botir", role: "PDP Student" },
 	{ name: "shoxrux", role: "PDP Student" },
 	{ name: "husnida", role: "PDP Student" }
 ];
